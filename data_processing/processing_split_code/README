@@ -1,0 +1,20 @@
+# Modular Processing Scripts
+
+This folder contains the processing script broken into modular, smaller-stage scripts for clarity and flexible workflows.
+
+Enables:
+- Stepwise execution of data processing stages.
+- Easier debugging and customization of individual data handling steps.
+- Clear organization of complex processing pipelines.
+
+Use these scripts to better understand or tailor each stage of the main processing workflow independently.
+
+## Usage
+
+Execute individual stage scripts in sequence as documented within each script's header comments.
+
+## Dependencies
+
+- Python 3.x
+- pandas
+- os

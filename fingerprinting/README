@@ -1,0 +1,23 @@
+# Molecular Fingerprinting and Sampling
+
+Contains scripts to generate molecular fingerprints and perform farthest point sampling using cheminformatics libraries.
+
+Features:
+- ECFP (Extended Connectivity Fingerprints) generation from SMILES strings.
+- Farthest point sampling algorithm for molecular diversity.
+- Visualization of sampling results with clustering and dimensionality reduction.
+
+Essential for chemical diversity analysis and sample selection in cheminformatics workflows.
+
+## Usage
+
+Run fingerprint and sampling scripts with SMILES input files to obtain diverse molecular subsets for study.
+
+## Dependencies
+
+- Python 3.x
+- rdkit
+- deepchem
+- numpy
+- matplotlib
+- scikit-learn

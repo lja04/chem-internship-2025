@@ -1,0 +1,22 @@
+# Calculations and Job Automation
+
+This folder contains scripts related to computational chemistry calculations and job management automation.
+
+Contains scripts for:
+- Organizing crystal structure files for calculation.
+- Running AutoLD and AutoFree calculations.
+- Creating and managing job scripts for Slurm cluster execution.
+- Transferring results and preparing taskfarm batch jobs.
+
+These tools streamline the preparation, execution, and management of computational chemistry workflows on HPC clusters.
+
+## Usage
+
+Run calculation and job submission scripts to prepare inputs, automate calculation runs, and manage output files efficiently.
+
+## Dependencies
+
+- Python 3.x
+- subprocess
+- shutil
+- pandas

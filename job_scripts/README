@@ -1,0 +1,17 @@
+# HPC Job Scripts
+
+This folder stores Slurm job scripts and related HPC submission files used to run calculations on cluster systems.
+
+Includes:
+- Slurm batch scripts requesting resources and specifying job parameters.
+- Example job submission scripts from internship projects.
+
+Demonstrates experience in batch job management and cluster job scheduling.
+
+## Usage
+
+Submit these scripts on an HPC cluster with Slurm to perform automated computational chemistry tasks.
+
+## Dependencies
+
+None (Slurm script files)

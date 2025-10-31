@@ -1,0 +1,22 @@
+# Data Processing
+
+This folder includes scripts to preprocess, filter, and organize crystal structure and molecular data.
+
+Scripts perform:
+- Filtering and validation of structure and calculation output files.
+- Conversion of crystal data into standardized formats.
+- Organization of database files and structure CSVs for downstream use.
+
+These scripts prepare raw data for analysis and calculation pipelines, ensuring data quality and organization.
+
+## Usage
+
+Run these scripts for initial data cleaning, format conversion, and folder structuring before calculations.
+
+## Dependencies
+
+- Python 3.x
+- os
+- shutil
+- glob
+- pandas
